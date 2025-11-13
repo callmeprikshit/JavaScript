@@ -1,4 +1,3 @@
-// const chai = () => {
-//     let username="bawa"
-//     console.log(this.username); // undefined
-// }
+// const values = coding.forEach((item)=>{
+//     console.log(item);
+// })
